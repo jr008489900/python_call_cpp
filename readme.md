@@ -1,0 +1,3 @@
+#PYTHON 呼叫外部C++程式
+
+CPP檔經編譯後由PYTHON呼叫sort.exe進行dataframe資料排序並將結果回傳至PYTHON練習
